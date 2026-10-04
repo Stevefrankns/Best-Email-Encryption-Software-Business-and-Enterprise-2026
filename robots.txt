@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-email-encryption-software-business-enterprise.vercel.app/sitemap.xml
